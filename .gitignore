@@ -1,0 +1,9 @@
+node_modules/
+dist/
+data/
+.env
+.mcp.json
+*.db
+*.db-journal
+*.log
+update-check.json
