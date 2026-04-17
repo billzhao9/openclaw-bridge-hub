@@ -1,6 +1,6 @@
 {
   "name": "openclaw-bridge-hub",
-  "version": "0.6.7",
+  "version": "0.6.8",
   "author": "Bill Zhao (https://www.linkedin.com/in/billzhaodi/)",
   "description": "OpenClaw Bridge Hub — gateway registry, file relay, and command queue for distributed OpenClaw instances",
   "type": "module",

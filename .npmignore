@@ -1,0 +1,16 @@
+.mcp.json
+.env
+.env.*
+!.env.example
+src/
+tsconfig.json
+*.ts
+!*.d.ts
+.git/
+.gitignore
+node_modules/
+data/
+*.db
+*.db-journal
+*.log
+update-check.json
